@@ -1,16 +1,15 @@
 # SnakeGame
-<p>• Классическая игра змейка на C, с использованием Windows API</p>
-<h1>Детали</h1>
-<p>• Игровое поле в виде равномерно разделенной сетки окна</p>
-<p>• Создание буффера для вывода изображения без мигания (оптимизация при большом количестве
-обьектов)</p>
-<h1>Управление</h1>
-<p> WASD </p>
-<h1> Установка </h1>
+
+![show](Image/present.gif)
+
+## Управление
+WASD
+
+## Установка и запуск
 
 ```sh
 git clone https://github.com/abramovms/SnakeGame.git
 cd SnakeGame/bin/Debug
 ```
-<p> Запускаем SnakeGame.exe</p>
+Запускаем SnakeGame.exe
 
